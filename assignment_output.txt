@@ -1,0 +1,3 @@
+Hello, DevOps World!
+This file was created using Python file handling.
+Assignment 2 - Python & Bash Tasks Completed Successfully.
